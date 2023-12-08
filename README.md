@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blu133721&theme=radical)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:1142001023196606545)](https://discord.com/users/:1142001023196606545)
