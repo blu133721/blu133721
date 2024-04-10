@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blu133721" alt="blu133721" /></a> </p>
 
-- 🔭 I’m currently working on: [Swiftly-Solutions](https://github.com/swiftly-solution)
+- 🔭 I’m currently working on: [Swiftly-Solutions](https://github.com/swiftly-solution) and [1TAP NETWORK](https://discord.gg/1tap)
 
 - 🌱 I’m currently learning: **C++, NodeJS**
 
