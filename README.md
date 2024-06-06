@@ -46,6 +46,10 @@
   </a>
 </div>
 
+<div align="center">
+  <p>Technical Support @ <a href="https://freakhosting.com/">FREAKHOSTING</a></p>
+</div>
+
 ###
 
 <br clear="both">
