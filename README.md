@@ -9,5 +9,5 @@
 </div>
 
 <div align="center">
-  <p>Technical Support @ <a href="https://freakhosting.com/">FREAKHOSTING</a></p>
+  <p><a href="https://freakhosting.com/">FREAKHOSTING</a></p>
 </div>
